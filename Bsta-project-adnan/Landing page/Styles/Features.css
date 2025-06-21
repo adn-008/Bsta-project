@@ -1,0 +1,56 @@
+ .a{
+      background-color: rgb(255, 255, 255);
+      
+      text-align: center;
+      margin: 0 86px;
+    }
+    .a h2{
+      color: #1B4119;
+      font-size: 40px;
+      font-family: 'IBM Plex Sans Arabic', sans-serif;
+      font-weight: bold;
+      margin-top: 66px;
+    }
+    .desc1{
+     margin-bottom: 30px;
+     font-size: 24px;
+     font-family: 'IBM Plex Sans Arabic', sans-serif; 
+     color: #1B4119;
+     
+    }
+    .cards{
+      display: flex;
+      justify-content: center;
+      gap: 21px;
+      
+    }
+    .card{
+      background-color: rgb(243, 246, 249);
+      border-radius: 10px;
+      padding: 20px;
+      width: 298px;
+      height: 218;
+      box-shadow: 0 15px 39.2px -8 black;
+      justify-items: center;
+    }
+    .card h4{
+      margin: 10px 0;
+      color: #1B4119;
+      font-size: 24;
+      font-family: 'IBM Plex Sans Arabic', sans-serif;
+    }
+    .card p{
+      color: #2d4f2b;
+      font-size: 16px;
+      font-family: 'IBM Plex Sans Arabic', sans-serif;
+    }
+    .icon{
+      font-size: 50px;
+      background-color: #2d4f2b;
+      border-radius: 50%;
+      width: 80px;
+      height: 80px;
+      align-items: center;
+      font-family: 'IBM Plex Sans Arabic', sans-serif;
+      
+    }
